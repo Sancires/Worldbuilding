@@ -1,8 +1,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sancires/Worldbuilding/master/wb.png">
 </p>
+<p align="center"> An upcoming Minecraft mod providing a variety of useful features for worldbuilding themed servers.
 
-An upcoming Minecraft mod providing a variety of useful features for worldbuilding themed servers.
+</p>
+
 
 ## Features
 - Toggleable vanilla features, such as villager trading, elytra usage, and totem usage.
