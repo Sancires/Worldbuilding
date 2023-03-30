@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/Sancires/Worldbuilding/master/wb.png)
+<center><img src="https://raw.githubusercontent.com/Sancires/Worldbuilding/master/wb.png"></center>
 
 
 An upcoming Minecraft mod providing a variety of useful features for worldbuilding themed servers.
