@@ -1,4 +1,7 @@
-# Worldbuilding
+
+![](https://raw.githubusercontent.com/Sancires/Worldbuilding/master/wb.png)
+
+
 An upcoming Minecraft mod providing a variety of useful features for worldbuilding themed servers.
 
 ## Features
